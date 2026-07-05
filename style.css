@@ -1,0 +1,43 @@
+body {
+	background-color: #000000;
+}
+
+ul {
+	color: #ffffff;
+	list-style-type: none;
+	border-left: 1px;
+	margin: -5px -35px;
+	padding: 0px 50px;
+	width: 100;
+	height: 100%;
+	position: fixed;
+	overflow: auto;
+	border-right: 1px solid #ffffff;
+}
+
+li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.stupid {
+	border-left: 1px solid #ffffff;
+	margin-left: 110px;
+	height: 1000px;
+}
+
+h2 {
+	margin-left: 15px;
+	color: #ffffff;
+}
+
+h4 {
+	margin: 0px 140px;
+	color: #ffffff;
+}
+
+p {
+	margin: 0px 140px;
+	color: #ffffff;
+	font-size: 14px;
+}
