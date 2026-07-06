@@ -15,9 +15,10 @@ ul {
 	border-right: 1px solid #ffffff;
 }
 
-li a {
+p {
+	margin: 0px 145px;
 	color: #ffffff;
-	text-decoration: none;
+	font-size: 15px;
 }
 
 h2 {
@@ -30,8 +31,16 @@ h4 {
 	color: #ffffff;
 }
 
-p {
-	margin: 0px 145px;
+img {
+	margin: 0px 145px
+}
+
+li a {
 	color: #ffffff;
-	font-size: 15px;
+	text-decoration: none;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
 }
