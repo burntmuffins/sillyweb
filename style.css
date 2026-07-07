@@ -6,9 +6,9 @@ ul {
 	color: #ffffff;
 	list-style-type: none;
 	border-left: 1px;
-	margin: -5px -45px;
-	padding: 0px 60px;
-	width: 100;
+	margin: -0.6% -6%;
+	padding: 0% 7%;
+	width: 6.5%;
 	height: 100%;
 	position: fixed;
 	overflow: auto;
@@ -16,23 +16,23 @@ ul {
 }
 
 p {
-	margin: 0px 145px;
+	margin:0% 17%;
 	color: #ffffff;
-	font-size: 15px;
+	font-size: 95%;
 }
 
 h2 {
-	margin-left: 15px;
+	margin: 2% 1%;
 	color: #ffffff;
 }
 
 h4 {
-	margin: 0px 145px;
+	margin: 0% 17%;
 	color: #ffffff;
 }
 
 img {
-	margin: 0px 145px
+	margin: 0% 17%;
 }
 
 li a {
