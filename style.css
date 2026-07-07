@@ -58,6 +58,10 @@ a:hover {
 	text-decoration: none;
 }
 
+dd {
+	margin: 0% 0%;
+}	
+
 @media (max-width: 700px) {
 
 	body {
