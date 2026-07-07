@@ -14,30 +14,30 @@ ul {
 	position: fixed;
 	overflow: auto;
 	border-right: 1px solid #ffffff;
-	font-size: 16px;
+	font-size: 15px;
 }
 
 p {
 	margin: 0% 17%;
 	color: #ffffff;
-	font-size: 15px;
+	font-size: 14px;
 }
 
 @media (min-width: 768px) {
 	ul {
-		font-size: 25px;
+		font-size: 31px;
 	}
 
 	h2 {
-		font-size: 30px;
+		font-size: 40px;
 	}
 
 	h4 {
-		font-size: 25px;
+		font-size: 31px;
 	}
 
 	p {
-		font-size: 24px;
+		font-size: 30px;
 	}
 }
 
