@@ -1,5 +1,6 @@
 body {
 	background-color: #000000;
+	font-family: sans;
 }
 
 ul {
@@ -16,9 +17,29 @@ ul {
 }
 
 p {
-	margin:0% 17%;
+	margin: 0% 17%;
 	color: #ffffff;
-	font-size: 95%;
+	font-size: 15px;
+}
+
+@media (min-width: 768px) {
+	h2 {
+		font-size: 20px;
+		margin: 2% 1%;
+		color: #ffffff;
+	}
+
+	h4 {
+		font-size: 20px;
+		margin: 0% 17%;
+		color: #ffffff;
+	}
+
+	p {
+		margin: 0% 17%;
+		color: #ffffff;
+		font-size: 20px;
+	}
 }
 
 h2 {
@@ -33,6 +54,8 @@ h4 {
 
 img {
 	margin: 0% 17%;
+	max-width: 100%;
+	height: auto;
 }
 
 li a {
