@@ -1,13 +1,13 @@
 body {
 	background-color: #000000;
 	font-family: arial;
-	margin-top: 60px;
+	margin: 60px 0px;
 }
 
 ul.nav {
 	color: #ffffff;
 	list-style-type: none;
-	margin: -0.6% -6%;
+	margin: 0% -6%;
 	padding: 0% 8%;
 	width: 7%;
 	height: 100%;
@@ -58,6 +58,43 @@ a:hover {
 	text-decoration: none;
 }
 
-dd {
-	margin: 0% 0%;
+@media (max-width: 700px) {
+
+	body {
+		margin: 5px 0px;
+	}
+
+	ul.nav {
+		position: static;
+		border-right: 0px;
+		margin: 0px 0px;
+		padding: 10px 15px;
+	}
+
+	h1 {
+		position: static;
+		margin: 0px 10px;
+	}
+
+	p {
+		margin: 0px 15px;
+	}
+
+	h4 {
+		margin: 0px 15px;
+	}
+
+	img {
+		margin: 0px 15px;
+	}
+
+	ul {
+		margin: 0px 5px;
+	}
+
+	dd {
+		margin: 0px 5px;
+	}
+
 }
+
